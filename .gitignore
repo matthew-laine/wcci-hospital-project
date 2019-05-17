@@ -1,0 +1,12 @@
+
+# Gradle stuff
+.gradle/
+
+# Eclipse stuff
+.project
+.classpath
+.settings/
+
+# Binary folder
+
+/bin
