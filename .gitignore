@@ -3,7 +3,7 @@
 .gradle/
 
 # Eclipse stuff
-.project
+
 .classpath
 .settings/
 
